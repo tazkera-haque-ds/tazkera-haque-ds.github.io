@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Sharifi;Tazkera;;;
+FN:Tazkera Sharifi
+TITLE:Senior Data Scientist; AI/ML Engineer III; Lead DevSecOps Engineer; AWS-Databricks Platform Architect
+ORG:Data Science / AI & Cloud
+EMAIL;TYPE=WORK:sharifi_tazkera@bah.com
+EMAIL;TYPE=HOME:thaque.datascience@gmail.com
+URL;TYPE=WORK:https://tazkera-haque-ds.github.io/
+item1.URL;type=pref:https://tazkera-haque-ds.github.io/
+item2.URL:https://www.linkedin.com/in/tazkera-sharifi/
+END:VCARD
